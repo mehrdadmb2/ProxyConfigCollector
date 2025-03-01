@@ -4,10 +4,10 @@ from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 
 # مسیر فایل ورودی شامل URLها
-input_file = "I:\\V2ray_col\\Test1\\DATA(Urls)\\Urls.txt"
+input_file = "DATA(Urls)\\Urls.txt"
 
 # مسیر ذخیره فایل‌های خروجی
-output_folder = "I:\\V2ray_col\\Test1\\configs\\"  # مسیر مورد نظر را اینجا تغییر دهید
+output_folder = "configs\\"  # مسیر مورد نظر را اینجا تغییر دهید
 
 # ایجاد پوشه خروجی در صورت عدم وجود
 os.makedirs(output_folder, exist_ok=True)
