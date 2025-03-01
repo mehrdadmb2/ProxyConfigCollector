@@ -1,8 +1,8 @@
 import os
 
 # مسیر پوشه‌ها
-valid_output_folder = "I:\\V2ray_col\\Test1\\valid_configs\\"  # پوشه فایل‌های تایید شده
-invalid_output_folder = "I:\\V2ray_col\\Test1\\invalid_configs\\"  # پوشه فایل‌های غیرمعتبر
+valid_output_folder = "valid_configs\\"  # پوشه فایل‌های تایید شده
+invalid_output_folder = "invalid_configs\\"  # پوشه فایل‌های غیرمعتبر
 
 # فایل خروجی که تمام محتوای فایل‌ها در آن ذخیره می‌شود
 valid_output_txt = os.path.join(valid_output_folder, "combined_valid.txt")
