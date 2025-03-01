@@ -3,10 +3,10 @@ import os
 import time
 
 # مسیر فایل ورودی
-input_file = "I:\\V2ray_col\\Test1\\valid_configs\\combined_valid.txt"
+input_file = "valid_configs\\combined_valid.txt"
 
 # پوشه ذخیره خروجی‌ها
-output_folder = "I:\\V2ray_col\\Test1\\separated_configs"
+output_folder = "separated_configs"
 
 # اطمینان از اینکه پوشه خروجی وجود دارد
 os.makedirs(output_folder, exist_ok=True)
