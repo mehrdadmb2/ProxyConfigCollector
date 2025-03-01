@@ -4,8 +4,8 @@ import re
 from tqdm import tqdm
 
 # مسیر پوشه حاوی فایل‌های تکست
-input_folder = "I:\\V2ray_col\\Test1\\configs_without_url\\"
-output_folder = "I:\\V2ray_col\\Test1\\decrypted_configs\\"  # مسیر خروجی برای فایل‌های رمزگشایی شده
+input_folder = "configs_without_url\\"
+output_folder = "decrypted_configs\\"  # مسیر خروجی برای فایل‌های رمزگشایی شده
 
 # ایجاد پوشه خروجی در صورت عدم وجود
 os.makedirs(output_folder, exist_ok=True)
