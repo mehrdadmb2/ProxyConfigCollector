@@ -1,4 +1,4 @@
-```markdown
+
 # ProxyConfigCollector 🚀🔧
 
 [![GitHub issues](https://img.shields.io/github/issues/mehrdadmb2/ProxyConfigCollector)](https://github.com/mehrdadmb2/ProxyConfigCollector/issues)
