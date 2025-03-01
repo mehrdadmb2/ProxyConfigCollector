@@ -3,9 +3,9 @@ import re
 from tqdm import tqdm
 
 # مسیر پوشه حاوی فایل‌ها
-input_folder = "I:\\V2ray_col\\Test1\\decrypted_configs\\"  # مسیر پوشه ورودی
-valid_output_folder = "I:\\V2ray_col\\Test1\\valid_configs\\"  # مسیر خروجی برای فایل‌های تایید شده
-invalid_output_folder = "I:\\V2ray_col\\Test1\\invalid_configs\\"  # مسیر خروجی برای فایل‌های غیر معتبر
+input_folder = "decrypted_configs\\"  # مسیر پوشه ورودی
+valid_output_folder = "valid_configs\\"  # مسیر خروجی برای فایل‌های تایید شده
+invalid_output_folder = "invalid_configs\\"  # مسیر خروجی برای فایل‌های غیر معتبر
 
 # ایجاد پوشه‌های خروجی در صورت عدم وجود
 os.makedirs(valid_output_folder, exist_ok=True)
