@@ -226,7 +226,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - **Mehrdad M.**  
   - GitHub: [@mehrdadmb2](https://github.com/mehrdadmb2)  
-  - Email: your.email@example.com
+  - Email: game.developer.mb@gmail.com
 
 ---
 
